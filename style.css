@@ -506,11 +506,10 @@ footer {
     .skills-grid {
         grid-template-columns: 1fr;
     }
-
     .hero h1 {
         font-size: 2.1rem;
     }
-
     .nav-links {
         gap: 8px 12px;
     }
+}
